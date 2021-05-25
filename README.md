@@ -1,1 +1,2 @@
-Project for SEEM 2460.
+# Predicting Credit Card Approval
+
